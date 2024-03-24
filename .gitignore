@@ -1,0 +1,11 @@
+# Ignore all files by default, but scan all directories
+*
+!*/
+
+# Don't ignore
+!.git*
+!*.ahk
+!*.md
+
+# Always ignore
+
