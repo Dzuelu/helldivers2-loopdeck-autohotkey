@@ -1,4 +1,4 @@
-# HellDivers2 LoopDeck AutoHotKey
+# HellDivers2 LoupDeck AutoHotKey
 AutoHotKey scripts for HellDivers2.
 Created for Razer Stream Controller X because input setup in LoopDeck is not detected in game.
 These scripts are separated into 2 scripts sets.
