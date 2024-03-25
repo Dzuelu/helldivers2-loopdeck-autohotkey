@@ -1,1 +1,0 @@
-Run sendCommands.ahk 
