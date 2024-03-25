@@ -6,6 +6,7 @@
 !.git*
 !*.ahk
 !*.md
+!*.lp5
 
 # Always ignore
 
